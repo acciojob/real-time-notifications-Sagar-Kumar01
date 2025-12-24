@@ -11,5 +11,5 @@ function customSort(a,b){
 
 employees.sort(customSort)
 
-employees.forEach(val => console.log(val))
+console.log(employees)
 
